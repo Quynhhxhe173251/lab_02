@@ -176,7 +176,9 @@ namespace WPFApp
             cboCategory.SelectedValue = 0;
         }
 
+        private void txtProductName_TextChanged(object sender, TextChangedEventArgs e)
+        {
 
-
+        }
     }
 }

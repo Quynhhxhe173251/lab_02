@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lSJbUsO8QHwD218LH25T44H56fcNAAeCns/jXpzu42Q3HoOF6F61+5icnUtiCbuVKrLwvq2bn9eu+ntC+F3RSA==",
+  "dgSpecHash": "w+Ri5xRiOBU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
+  "projectFilePath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

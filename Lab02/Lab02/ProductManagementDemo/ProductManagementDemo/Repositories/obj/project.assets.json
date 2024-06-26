@@ -4153,11 +4153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\obj\\",
+      "outputPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4174,11 +4174,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
+            "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
+              "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
             }
           }
         }
@@ -4235,7 +4235,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

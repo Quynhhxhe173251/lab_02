@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {}
+    "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

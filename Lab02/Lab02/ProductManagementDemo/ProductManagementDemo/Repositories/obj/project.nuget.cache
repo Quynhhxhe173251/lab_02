@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ebhXKbQPVTjM0xYxzn4IOOkM0Dg1PCCUXFwO8ZzEd1OhuVEZVr1Cax+tBPCDWUP8n2+3TKcKr7sgCf6aimERBg==",
+  "dgSpecHash": "0nzfwSS09iQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

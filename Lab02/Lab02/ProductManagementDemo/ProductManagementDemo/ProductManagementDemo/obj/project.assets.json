@@ -4327,11 +4327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
+      "projectUniqueName": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
       "projectName": "WPFApp",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
+      "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\WPFApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\obj\\",
+      "outputPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\ProductManagementDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4348,8 +4348,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\ProductManagementDemo\\ProductManagementDemo\\Services\\Services.csproj"
+            "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Services\\Services.csproj": {
+              "projectPath": "D:\\data_Learn\\code_C#\\Lab02\\Lab02\\ProductManagementDemo\\ProductManagementDemo\\Services\\Services.csproj"
             }
           }
         }
@@ -4409,7 +4409,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -26,3 +26,17 @@ C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObj
 C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
 C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
 C:\Users\Admin\Downloads\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+D:\data_Learn\code_C#\Lab02\Lab02\ProductManagementDemo\ProductManagementDemo\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
